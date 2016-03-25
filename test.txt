@@ -1,0 +1,43 @@
+Eric Schreiner
+Walnut Creek CA 94595  (925) 818-6651  ebschreiner@gmail.com
+
+Education 
+
+California State University, East Bay						    Hayward, CA 	         
+B.S. in Computer Science			         	     Expected Graduation Date: December 2016
+Cumulative GPA: 	3.529
+Major GPA:		3.873
+Honors:	 		Dean’s List 5 Quarters
+	
+Skills
+
+	Programming Languages:  Java, C, C++, SQL, MIPS Assembly
+	IDE’s:  Eclipse, Visual Studio, NetBeans
+	Database Experience:  Oracle, Toad, JDBC, MySQL
+	Web:  Java EE (Servlet/JSP), HTML, CSS
+
+Project Experience
+
+Object-Oriented Programming 						          Fall 2015
+	Created a Java desktop application representing an address book, with operations for adding/removing contacts, storing/loading the contact list from a database, and searching for particular entries.
+	Used the Java Swing framework to implement user interface.
+	
+Software Engineering I							          Fall 2015
+	Created an arcade-style maze game as a Java Applet for a group project using the spiral model of software engineering and the MVC design pattern.  
+	My role was leading the team in developing the program requirements and assisting in program design, documenting our work through a Software Requirements Specification and a Software Design Specification, and coding some Model classes.
+
+Work Experience
+
+Dick’s Sporting Goods					            		            Pleasant Hill, CA
+Apparel Sales Associate					  	         April 2014 to November 2014
+	Assisted customers with purchases using product knowledge and personal experience to enhance their consumer experience.
+	Helped design and configure various apparel sections of the store in accordance with vendor requirements.
+
+Macy’s									          Walnut Creek, CA
+Men’s Footwear Sales Associate						    June 2013 to April 2014
+	Assisted customers in the footwear department, offering suggestions and product knowledge to find the customer the best product for their personal needs.
+
+Community Involvement
+
+	Volunteer at John Muir Behavioral Health Services (Concord) – 3 Years
+	Volunteer Youth Leader at East Bay Foursquare Church – 4 Months
